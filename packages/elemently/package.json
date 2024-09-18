@@ -1,0 +1,8 @@
+ "name": "elemently",
+  "description": "Elemently is a JavaScript library for building user interfaces. Standalone and can reuse other frameworks like svelete, react, vue",
+  "keywords": [
+    "elemently", "react", "vue", "svelte"
+  ],
+  "version": "1.3.1",
+  "license": "MIT"
+}
